@@ -1,6 +1,6 @@
 # 🎬 Studio Ghibli Films Dataset
 
-![Studio Ghibli Banner](https://image.jeuxvideo.com/medias-md/158012/1580118540-4038-card.jpg)
+![Studio Ghibli Banner](https://cdn.wallpapersafari.com/10/48/KgxfAk.png)
 
 ---
 A comprehensive public dataset of **Studio Ghibli films**, including:
