@@ -1,8 +1,6 @@
 # 🎬 Studio Ghibli Films Dataset
 
-<div style="background-color:#109CEB; padding:10px; text-align:center;">
-  <img src="https://www.ghibli.jp/img/totoro.png" alt="Studio Ghibli Banner" width="300"/>
-</div>
+![Studio Ghibli Banner](https://image.jeuxvideo.com/medias-md/158012/1580118540-4038-card.jpg)
 
 ---
 A comprehensive public dataset of **Studio Ghibli films**, including:
